@@ -1,0 +1,8 @@
+.container {
+  margin-top: 10%;
+}
+.ownRow {
+  padding: 25px;
+  box-shadow: 10px 10px 5px grey;
+  background-color: gainsboro;
+}

@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "sma-tradingbot-angular"
+  "defaultProject": "sma-tradingbot-angular",
+  "cli": {
+    "analytics": "5d28f3da-29e2-4f8c-b635-ca2dcd3b7621"
+  }
 }
